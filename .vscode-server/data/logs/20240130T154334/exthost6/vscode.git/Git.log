@@ -1,0 +1,183 @@
+2024-02-06 15:26:57.506 [info] Log level: Info
+2024-02-06 15:26:57.506 [info] Validating found git in: "git"
+2024-02-06 15:26:57.506 [info] Using git "2.34.1" from "git"
+2024-02-06 15:26:57.506 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-06 15:26:57.507 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:26:57.507 [info] > git rev-parse --show-toplevel [19ms]
+2024-02-06 15:26:57.507 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:26:57.507 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:26:57.507 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:26:57.507 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:26:57.507 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:26:57.507 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:26:57.508 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:26:57.508 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-06 15:26:57.508 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:26:57.508 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-06 15:26:57.508 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:26:57.508 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 15:26:57.508 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:26:57.509 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-06 15:26:57.509 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:26:57.510 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-06 15:26:57.510 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:38:19.744 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-06 15:38:19.745 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:38:20.160 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-06 15:38:20.160 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:38:28.184 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:38:28.184 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:38:39.612 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 15:38:39.612 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:38:47.753 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:38:47.754 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:38:56.483 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:38:56.483 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:39:13.580 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-06 15:39:13.580 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:39:15.189 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 15:39:15.189 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:46:23.561 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 15:46:23.562 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:47:05.854 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:47:05.854 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:47:21.578 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 15:47:21.578 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:51:32.985 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 15:51:32.985 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:52:56.624 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 15:52:56.625 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:52:57.327 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-06 15:52:57.327 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:52:59.509 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-06 15:52:59.509 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:53:08.487 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:53:08.487 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:54:00.323 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:54:00.324 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:55:08.726 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:55:08.727 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:56:57.268 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:56:57.268 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:57:02.458 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:57:02.458 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:57:10.462 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 15:57:10.462 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 15:57:26.707 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 15:57:26.707 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 16:36:26.776 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 16:36:26.776 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 16:37:20.418 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-06 16:37:20.434 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-06 16:37:20.452 [info] Open repository: /var/lib/odoo
+2024-02-06 16:37:20.483 [info] No remotes found in the git config file.
+2024-02-06 16:37:20.485 [info] > git config --get commit.template [17ms]
+2024-02-06 16:37:20.486 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-06 16:37:20.627 [info] > git status -z -uall [127ms]
+2024-02-06 16:37:20.732 [info] > git config --get commit.template [29ms]
+2024-02-06 16:37:20.752 [info] No remotes found in the git config file.
+2024-02-06 16:37:21.027 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [276ms]
+2024-02-06 16:37:21.065 [info] > git check-ignore -v -z --stdin [17ms]
+2024-02-06 16:37:21.115 [info] > git status -z -uall [78ms]
+2024-02-06 16:40:54.030 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-06 16:40:55.670 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-06 16:41:54.538 [info] > git add -A -- . [10310ms]
+2024-02-06 16:41:54.753 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [203ms]
+2024-02-06 16:41:54.753 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2024-02-06 16:41:54.765 [info] > git config --get-all user.name [1ms]
+2024-02-06 16:41:54.794 [info] > git config --get commit.template [15ms]
+2024-02-06 16:41:54.795 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-06 16:41:54.861 [info] > git status -z -uall [48ms]
+2024-02-06 16:41:54.974 [info] > git config --get commit.template [3ms]
+2024-02-06 16:41:54.988 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-06 16:41:55.335 [info] > git status -z -uall [336ms]
+2024-02-06 16:42:20.644 [info] > git config --get commit.template [4ms]
+2024-02-06 16:42:20.666 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-06 16:42:20.707 [info] > git status -z -uall [28ms]
+2024-02-06 16:42:25.781 [info] > git config --get commit.template [14ms]
+2024-02-06 16:42:25.783 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-06 16:42:25.825 [info] > git status -z -uall [27ms]
+2024-02-06 16:42:40.805 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [13ms]
+2024-02-06 16:42:40.805 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2024-02-06 16:42:40.819 [info] > git config --get-all user.name [1ms]
+2024-02-06 16:42:40.848 [info] > git config --get commit.template [15ms]
+2024-02-06 16:42:40.849 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-06 16:42:40.888 [info] > git status -z -uall [25ms]
+2024-02-06 16:43:36.110 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [38ms]
+2024-02-06 16:43:36.126 [info] > git config --get commit.template [1ms]
+2024-02-06 16:43:36.152 [info] > git config --get commit.template [13ms]
+2024-02-06 16:43:36.154 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-06 16:43:36.189 [info] > git status -z -uall [24ms]
+2024-02-06 16:43:36.524 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [2ms]
+2024-02-06 16:43:36.544 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2024-02-06 16:43:36.567 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [5ms]
+2024-02-06 16:43:36.595 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2024-02-06 16:43:36.595 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-06 16:43:36.700 [info] > git config --get commit.template [16ms]
+2024-02-06 16:43:36.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-02-06 16:43:36.742 [info] > git status -z -uall [26ms]
+2024-02-06 16:43:36.792 [info] > git config --get commit.template [19ms]
+2024-02-06 16:43:36.794 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-06 16:43:36.834 [info] > git status -z -uall [26ms]
+2024-02-06 16:43:37.339 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-06 16:43:55.580 [info] > git add -A -- . [32ms]
+2024-02-06 16:43:55.618 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [17ms]
+2024-02-06 16:43:55.638 [info] > git config --get commit.template [3ms]
+2024-02-06 16:43:55.671 [info] > git config --get commit.template [15ms]
+2024-02-06 16:43:55.672 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-06 16:43:55.712 [info] > git status -z -uall [26ms]
+2024-02-06 16:43:55.743 [info] > git push [6ms]
+2024-02-06 16:43:55.743 [info] fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+2024-02-06 16:43:55.788 [info] > git config --get commit.template [30ms]
+2024-02-06 16:43:55.789 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [3ms]
+2024-02-06 16:43:55.802 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [30ms]
+2024-02-06 16:43:55.821 [info] > git config --local branch.main.vscode-merge-base [19ms]
+2024-02-06 16:43:55.840 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [5ms]
+2024-02-06 16:43:55.854 [info] > git status -z -uall [39ms]
+2024-02-06 16:43:55.862 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [8ms]
+2024-02-06 16:43:55.862 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-06 16:46:09.324 [info] > git push -u origin main [130040ms]
+2024-02-06 16:46:09.324 [info] ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-02-06 16:46:09.355 [info] > git config --get commit.template [12ms]
+2024-02-06 16:46:09.355 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-06 16:46:09.394 [info] > git status -z -uall [24ms]
+2024-02-06 16:46:09.776 [info] > git config --get commit.template [15ms]
+2024-02-06 16:46:09.777 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-06 16:46:09.820 [info] > git status -z -uall [26ms]
+2024-02-06 16:46:13.915 [info] > git config --get commit.template [31ms]
+2024-02-06 16:46:13.919 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-02-06 16:46:13.956 [info] > git status -z -uall [25ms]
+2024-02-06 16:46:18.993 [info] > git config --get commit.template [15ms]
+2024-02-06 16:46:18.995 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-06 16:46:19.030 [info] > git status -z -uall [24ms]

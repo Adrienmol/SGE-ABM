@@ -1,0 +1,7 @@
+{
+    "remote.SSH.remotePlatform": {
+        "adrianbm": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "redhat.telemetry.enabled": true
+}

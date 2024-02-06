@@ -1,0 +1,34 @@
+2024-01-30 15:46:30.666 [info] Extension host with pid 11844 started
+2024-01-30 15:46:30.688 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/8d1d908c3f65b5ed7a811258dccbaedd/vscode.lock': Lock acquired.
+2024-01-30 15:46:30.819 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-01-30 15:46:30.893 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-30 15:46:31.002 [info] Eager extensions activated
+2024-01-30 15:46:31.002 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-30 15:46:31.003 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-30 15:46:32.059 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-01-30 16:42:24.999 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-01-30 16:49:39.469 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-30 17:12:40.058 [info] ExtensionService#_doActivateExtension redhat.vscode-xml, startup: false, activationEvent: 'onLanguage:xml'
+2024-01-30 17:12:40.963 [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.
+2024-01-30 17:12:46.096 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-30 17:12:46.097 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-02 14:42:31.405 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-02-02 14:42:31.408 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/8d1d908c3f65b5ed7a811258dccbaedd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-02 14:42:31.500 [error] Canceled: Canceled
+	at new g (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+	at u.U (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+	at P.<computed>.j.charCodeAt.P.<computed> (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+	at d.g (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+	at d.executeCommand (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at b.registerCommand.description (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+	at d.h (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+	at d.g (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+	at d.executeCommand (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at Object.executeCommand (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:280393
+	at r.invoke (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:567242)
+	at o.fire (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:568007)
+	at set $state [as $state] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:339773)
+	at w.shutdown (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:351430)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2024-02-02 14:42:31.520 [info] Extension host with pid 11844 exiting with code 0
