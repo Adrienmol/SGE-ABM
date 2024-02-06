@@ -209,3 +209,54 @@ and the repository exists.
 2024-02-06 17:02:18.812 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [2ms]
 2024-02-06 17:02:18.836 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
 2024-02-06 17:02:25.086 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [22ms]
+2024-02-06 17:02:25.112 [info] > git add -A -- . [32ms]
+2024-02-06 17:02:25.150 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [25ms]
+2024-02-06 17:02:25.167 [info] > git config --get commit.template [3ms]
+2024-02-06 17:02:25.201 [info] > git config --get commit.template [15ms]
+2024-02-06 17:02:25.203 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-06 17:02:25.242 [info] > git status -z -uall [26ms]
+2024-02-06 17:02:25.278 [info] > git push [4ms]
+2024-02-06 17:02:25.278 [info] fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+2024-02-06 17:02:25.308 [info] > git config --get commit.template [15ms]
+2024-02-06 17:02:25.309 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-06 17:02:25.349 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [5ms]
+2024-02-06 17:02:25.365 [info] > git status -z -uall [42ms]
+2024-02-06 17:02:25.372 [info] > git config --local branch.main.vscode-merge-base [9ms]
+2024-02-06 17:02:25.390 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [3ms]
+2024-02-06 17:02:25.410 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-02-06 17:02:25.410 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-06 17:02:29.278 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [20ms]
+2024-02-06 17:02:29.305 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
+2024-02-06 17:02:29.359 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [14ms]
+2024-02-06 17:02:29.362 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [4ms]
+2024-02-06 17:03:33.710 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [4ms]
+2024-02-06 17:03:33.732 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [4ms]
+2024-02-06 17:03:36.522 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
+2024-02-06 17:03:36.542 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
+2024-02-06 17:04:39.340 [info] > git push -u origin main [130065ms]
+2024-02-06 17:04:39.340 [info] ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-02-06 17:04:39.365 [info] > git config --get commit.template [12ms]
+2024-02-06 17:04:39.366 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-06 17:04:39.401 [info] > git status -z -uall [25ms]
+2024-02-06 17:04:39.485 [info] > git config --get commit.template [12ms]
+2024-02-06 17:04:39.486 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-06 17:04:39.521 [info] > git status -z -uall [23ms]
+2024-02-06 17:04:39.542 [info] > git config --get commit.template [2ms]
+2024-02-06 17:04:39.556 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-06 17:04:39.593 [info] > git status -z -uall [24ms]
+2024-02-06 17:05:08.327 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
+2024-02-06 17:05:18.638 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-02-06 17:05:21.073 [info] > git checkout -q main [19ms]
+2024-02-06 17:05:21.098 [info] > git config --get commit.template [14ms]
+2024-02-06 17:05:21.099 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-06 17:05:21.138 [info] > git status -z -uall [26ms]
+2024-02-06 17:05:22.467 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [2ms]
+2024-02-06 17:05:22.496 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [4ms]
+2024-02-06 17:05:28.620 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [7ms]
