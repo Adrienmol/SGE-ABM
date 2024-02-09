@@ -200,3 +200,4 @@
 2024-02-09 16:13:35.055 [info] [127.0.0.1][a136c98d][ManagementConnection] New connection established.
 2024-02-09 16:13:35.058 [info] [127.0.0.1][9f8f3a17][ExtensionHostConnection] New connection established.
 2024-02-09 16:13:35.108 [info] [127.0.0.1][9f8f3a17][ExtensionHostConnection] <39961> Launched Extension Host Process.
+2024-02-09 16:18:34.871 [info] New EH opened, aborting shutdown

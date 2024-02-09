@@ -11,3 +11,6 @@
 2024-02-09 16:13:39.951 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 2024-02-09 16:13:42.778 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
 2024-02-09 16:15:51.432 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1170
+2024-02-09 16:21:02.736 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169
+2024-02-09 16:26:14.027 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1166
+2024-02-09 16:31:25.389 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2301

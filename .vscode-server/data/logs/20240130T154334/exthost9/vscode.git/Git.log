@@ -30,3 +30,30 @@ and the repository exists.
 2024-02-09 16:15:51.341 [info] > git config --get commit.template [13ms]
 2024-02-09 16:15:51.342 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
 2024-02-09 16:15:51.397 [info] > git status -z -uall [43ms]
+2024-02-09 16:21:02.604 [info] > git fetch [131146ms]
+2024-02-09 16:21:02.605 [info] ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-02-09 16:21:02.633 [info] > git config --get commit.template [15ms]
+2024-02-09 16:21:02.635 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-02-09 16:21:02.702 [info] > git status -z -uall [54ms]
+2024-02-09 16:26:13.901 [info] > git fetch [131137ms]
+2024-02-09 16:26:13.902 [info] ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-02-09 16:26:13.932 [info] > git config --get commit.template [12ms]
+2024-02-09 16:26:13.933 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-09 16:26:14.005 [info] > git status -z -uall [58ms]
+2024-02-09 16:31:25.196 [info] > git fetch [131138ms]
+2024-02-09 16:31:25.196 [info] ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-02-09 16:31:25.225 [info] > git config --get commit.template [14ms]
+2024-02-09 16:31:25.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-02-09 16:31:25.335 [info] > git status -z -uall [65ms]

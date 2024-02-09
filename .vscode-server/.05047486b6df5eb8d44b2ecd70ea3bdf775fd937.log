@@ -17,3 +17,9 @@ Extension host agent listening on 46327
 [16:14:24] [127.0.0.1][46fb84f1][ManagementConnection] New connection established.
 [16:14:24] [127.0.0.1][25db5759][ExtensionHostConnection] New connection established.
 [16:14:24] [127.0.0.1][25db5759][ExtensionHostConnection] <40331> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[16:19:23] New EH opened, aborting shutdown
+[16:29:41] [127.0.0.1][46fb84f1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:29:41] [127.0.0.1][25db5759][ExtensionHostConnection] <40331> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[16:29:41] Last EH closed, waiting before shutting down

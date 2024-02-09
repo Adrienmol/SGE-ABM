@@ -167,3 +167,11 @@ git remote set-url origin git@github.com:Adrienmol/SGE-ABM.git
 git remote -v
 git add ./modules
 git push -u origin main
+git remote -v
+git status
+git add ./modules
+git commit -m "Prueba de commit"
+git branch -M main
+git remote add origin git@github.com:Adrienmol/SGE-ABM.git
+git push -u origin main
+git remote -v
