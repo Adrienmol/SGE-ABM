@@ -260,3 +260,66 @@ and the repository exists.
 2024-02-06 17:05:22.467 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [2ms]
 2024-02-06 17:05:22.496 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [4ms]
 2024-02-06 17:05:28.620 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [7ms]
+2024-02-06 17:05:28.670 [info] > git add -A -- . [28ms]
+2024-02-06 17:05:28.713 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [29ms]
+2024-02-06 17:05:28.726 [info] > git config --get commit.template [2ms]
+2024-02-06 17:05:28.747 [info] > git config --get commit.template [1ms]
+2024-02-06 17:05:28.763 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-02-06 17:05:28.805 [info] > git status -z -uall [30ms]
+2024-02-06 17:05:28.832 [info] > git push [1ms]
+2024-02-06 17:05:28.832 [info] fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+2024-02-06 17:05:28.860 [info] > git config --get commit.template [13ms]
+2024-02-06 17:05:28.864 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-02-06 17:05:28.910 [info] > git status -z -uall [30ms]
+2024-02-06 17:05:28.915 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [7ms]
+2024-02-06 17:05:28.934 [info] > git config --local branch.main.vscode-merge-base [4ms]
+2024-02-06 17:05:28.949 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [3ms]
+2024-02-06 17:05:28.964 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-02-06 17:05:28.964 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-06 17:05:30.244 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [19ms]
+2024-02-06 17:05:30.380 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [7ms]
+2024-02-06 17:05:30.456 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
+2024-02-06 17:05:30.632 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [12ms]
+2024-02-06 17:05:34.084 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
+2024-02-06 17:06:02.610 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
+2024-02-06 17:06:24.012 [info] > git push -u origin main [53769ms]
+2024-02-06 17:06:24.012 [info] remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File .vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/node is 86.60 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Adrienmol/Tarea01-ABM.git
+ * [new branch]      main -> main
+2024-02-06 17:06:24.043 [info] > git config --get commit.template [19ms]
+2024-02-06 17:06:24.044 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-02-06 17:06:24.083 [info] > git status -z -uall [27ms]
+2024-02-06 17:06:24.266 [info] > git config --get commit.template [14ms]
+2024-02-06 17:06:24.268 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-06 17:06:24.303 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2024-02-06 17:06:24.319 [info] > git status -z -uall [37ms]
+2024-02-06 17:06:24.342 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [23ms]
+2024-02-06 17:06:24.344 [info] > git config --get commit.template [3ms]
+2024-02-06 17:06:24.364 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-02-06 17:06:24.407 [info] > git status -z -uall [30ms]
+2024-02-06 17:06:25.227 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
+2024-02-06 17:06:25.250 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
+2024-02-06 17:06:39.606 [info] > git fetch [683ms]
+2024-02-06 17:06:39.606 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/Adrienmol/Tarea01-ABM.git/'
+2024-02-06 17:06:39.640 [info] > git config --get commit.template [17ms]
+2024-02-06 17:06:39.645 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-02-06 17:06:39.690 [info] > git status -z -uall [28ms]
+2024-02-06 17:06:39.761 [info] > git config --get commit.template [14ms]
+2024-02-06 17:06:39.763 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-06 17:06:39.811 [info] > git status -z -uall [29ms]
+2024-02-06 17:06:40.262 [info] > git ls-tree -l HEAD -- /var/lib/odoo/.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [3ms]
+2024-02-06 17:06:40.300 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240130T154334/exthost6/vscode.git/Git.log [4ms]
+2024-02-06 17:06:40.372 [info] > git check-ignore -v -z --stdin [3ms]
+2024-02-06 17:12:38.666 [info] > git config --get commit.template [14ms]
+2024-02-06 17:12:38.667 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-06 17:12:38.704 [info] > git status -z -uall [24ms]

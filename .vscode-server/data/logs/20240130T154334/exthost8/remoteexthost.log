@@ -1,0 +1,124 @@
+2024-02-08 16:34:01.222 [info] Extension host with pid 27256 started
+2024-02-08 16:34:01.223 [error] Error: EEXIST: file already exists, open '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock'
+2024-02-08 16:34:01.228 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-02-08 16:34:01.245 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock': The lock does not look stale, elapsed: 916 ms, giving up.
+2024-02-08 16:34:01.247 [error] Error: EEXIST: file already exists, open '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock'
+2024-02-08 16:34:01.247 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-02-08 16:34:01.248 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock': The lock does not look stale, elapsed: 840 ms, giving up.
+2024-02-08 16:34:01.255 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-2/vscode.lock': Lock acquired.
+2024-02-08 16:34:01.348 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-08 16:34:01.350 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-08 16:34:02.352 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-08 16:34:02.599 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-08 16:34:02.600 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-08 16:34:03.129 [info] Eager extensions activated
+2024-02-08 16:34:03.130 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:34:03.132 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:46:57.534 [info] ExtensionService#_doActivateExtension redhat.vscode-xml, startup: false, activationEvent: 'onLanguage:xml'
+2024-02-08 16:46:58.198 [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.
+2024-02-08 16:47:36.995 [error] [redhat.vscode-xml] provider FAILED
+2024-02-08 16:47:36.998 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-08 16:54:15.537 [error] [redhat.vscode-xml] provider FAILED
+2024-02-08 16:54:15.537 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-08 16:54:17.378 [error] [redhat.vscode-xml] provider FAILED
+2024-02-08 16:54:17.378 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-08 16:57:52.157 [error] [redhat.vscode-xml] provider FAILED
+2024-02-08 16:57:52.157 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-08 16:57:52.223 [error] [redhat.vscode-xml] provider FAILED
+2024-02-08 16:57:52.223 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-08 16:58:47.189 [error] [redhat.vscode-xml] provider FAILED
+2024-02-08 16:58:47.189 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-08 17:00:27.550 [error] [redhat.vscode-xml] provider FAILED
+2024-02-08 17:00:27.550 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-08 17:01:28.908 [error] [redhat.vscode-xml] provider FAILED
+2024-02-08 17:01:28.909 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-08 17:02:18.578 [error] [redhat.vscode-xml] provider FAILED
+2024-02-08 17:02:18.578 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 14:53:37.406 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-02-09 14:57:17.781 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 14:57:17.781 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 14:57:17.967 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 14:57:17.968 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 14:57:17.991 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 14:57:17.992 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 14:59:50.621 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 14:59:50.621 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 15:12:55.637 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 15:12:55.638 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 15:14:15.546 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 15:14:15.547 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 15:14:41.998 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 15:14:41.999 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 15:14:42.512 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 15:14:42.513 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 15:24:23.542 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 15:24:23.542 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 15:25:59.550 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 15:25:59.550 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 15:25:59.560 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 15:25:59.560 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)
+2024-02-09 15:27:35.588 [error] [redhat.vscode-xml] provider FAILED
+2024-02-09 15:27:35.589 [error] TypeError: Cannot read properties of null (reading 'tags')
+	at Object.D [as asCompletionItem] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:459134)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:385140
+	at async we.resolveCompletionItem (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53697)

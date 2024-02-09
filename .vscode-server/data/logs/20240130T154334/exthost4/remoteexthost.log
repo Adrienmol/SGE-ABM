@@ -13,3 +13,23 @@
 2024-02-02 15:01:33.597 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-02-02 15:01:33.598 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-02-02 15:41:47.907 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:csv'
+2024-02-08 16:38:13.853 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-02-08 16:38:13.859 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-08 16:38:13.953 [error] Canceled: Canceled
+	at new g (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+	at u.U (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+	at P.<computed>.j.charCodeAt.P.<computed> (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+	at d.g (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+	at d.executeCommand (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at b.registerCommand.description (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+	at d.h (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+	at d.g (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+	at d.executeCommand (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at Object.executeCommand (/var/lib/odoo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+	at /var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:280393
+	at r.invoke (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:567242)
+	at o.fire (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:568007)
+	at set $state [as $state] (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:339773)
+	at w.shutdown (/var/lib/odoo/.vscode-server/extensions/redhat.vscode-xml-0.26.1-linux-x64/dist/extension.js:2:351430)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2024-02-08 16:38:13.975 [info] Extension host with pid 13340 exiting with code 0
