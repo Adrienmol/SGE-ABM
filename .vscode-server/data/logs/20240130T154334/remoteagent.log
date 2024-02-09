@@ -192,3 +192,11 @@
     at emit (node:internal/child_process:937:14)
     at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
 2024-02-09 14:49:23.414 [info] [127.0.0.1][f8abd15d][ExtensionHostConnection] <21581> Extension Host Process exited with code: 0, signal: null.
+2024-02-09 16:13:11.573 [info] [127.0.0.1][2576e09a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-09 16:13:11.708 [info] [127.0.0.1][e498249c][ExtensionHostConnection] <27256> Extension Host Process exited with code: 0, signal: null.
+2024-02-09 16:13:11.709 [info] Last EH closed, waiting before shutting down
+2024-02-09 16:13:34.868 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-02-09 16:13:34.869 [info] Cancelling previous shutdown timeout
+2024-02-09 16:13:35.055 [info] [127.0.0.1][a136c98d][ManagementConnection] New connection established.
+2024-02-09 16:13:35.058 [info] [127.0.0.1][9f8f3a17][ExtensionHostConnection] New connection established.
+2024-02-09 16:13:35.108 [info] [127.0.0.1][9f8f3a17][ExtensionHostConnection] <39961> Launched Extension Host Process.

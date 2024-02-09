@@ -25,3 +25,7 @@ Message: Unmatched cancel notification for request id 1402
 Message: Unmatched cancel notification for request id 1500
 [Warn  - 15:51:34] Feb 09, 2024 03:51:34 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation()
 Message: Unmatched cancel notification for request id 2443
+[Warn  - 16:00:22] Feb 09, 2024 04:00:22 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation()
+Message: Unmatched cancel notification for request id 2459
+[Warn  - 16:01:23] Feb 09, 2024 04:01:23 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation()
+Message: Unmatched cancel notification for request id 2484

@@ -1,0 +1,23 @@
+2024-02-09 16:14:29.177 [info] Extension host with pid 40331 started
+2024-02-09 16:14:29.178 [error] Error: EEXIST: file already exists, open '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock'
+2024-02-09 16:14:29.185 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-02-09 16:14:29.209 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock': The lock does not look stale, elapsed: 911 ms, giving up.
+2024-02-09 16:14:29.215 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock': Lock acquired.
+2024-02-09 16:14:33.731 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-09 16:14:33.733 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-09 16:14:33.735 [info] ExtensionService#_doActivateExtension redhat.vscode-xml, startup: false, activationEvent: 'onLanguage:xml'
+2024-02-09 16:14:34.737 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-09 16:14:35.311 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-09 16:14:35.312 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-09 16:14:36.519 [info] Eager extensions activated
+2024-02-09 16:14:36.519 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 16:14:36.520 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 16:14:37.406 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1167
+2024-02-09 16:14:39.240 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1167
+2024-02-09 16:14:40.130 [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.
+2024-02-09 16:15:48.475 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-02-09 16:16:46.712 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1170
+2024-02-09 16:16:50.696 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169
+2024-02-09 16:16:55.806 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169
+2024-02-09 16:17:00.916 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169
+2024-02-09 16:17:06.565 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169

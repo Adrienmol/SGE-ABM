@@ -134,3 +134,36 @@ git branch -M main
 git remote add origin git@github.com:Adrienmol/Tarea01-ABM.git
 git push -u origin main
 git push -u origin tarea01abm
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Adrienmol/SGE-ABM.git
+git push -u origin main
+git help
+git remote add origin git@github.com:Adrienmol/SGE-ABM.git
+git remote delete
+git remote delete Tarea01-ABM
+git config --global user.name "Tu Nombre"
+git config --global user.name "Adrienmol"
+git config --global user.email "adrianballester95@gmail.com"
+git init
+git init
+git add ./modules
+git commit -m "first commit"
+git config --global user.email "adrianballester95@gmail.com"
+git config --global user.name "Adrienmol"
+git commit -m "first commit"
+git config --global --unset-all
+git init
+git branch -M main
+git remote add origin git@github.com:Adrienmol/SGE-ABM.git
+git push -u origin master
+git clone git@github.com:Adrienmol/SGE-ABM.git
+git status
+git add ./modules
+git push -u origin main
+git remote -v
+git remote set-url origin git@github.com:Adrienmol/SGE-ABM.git
+git remote -v
+git add ./modules
+git push -u origin main
