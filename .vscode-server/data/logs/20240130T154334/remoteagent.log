@@ -201,3 +201,13 @@
 2024-02-09 16:13:35.058 [info] [127.0.0.1][9f8f3a17][ExtensionHostConnection] New connection established.
 2024-02-09 16:13:35.108 [info] [127.0.0.1][9f8f3a17][ExtensionHostConnection] <39961> Launched Extension Host Process.
 2024-02-09 16:18:34.871 [info] New EH opened, aborting shutdown
+2024-02-09 16:34:49.730 [info] Extensions added from another source felipecaputo.git-project-manager file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+2024-02-09 16:39:11.626 [info] Extensions added from another source codezombiech.gitignore file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+2024-02-09 16:39:12.179 [info] Extensions added from another source donjayamanne.githistory file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+2024-02-09 16:39:12.412 [info] Extensions added from another source alefragnani.project-manager file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+2024-02-09 16:39:12.565 [info] Extensions added from another source ziyasal.vscode-open-in-github file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+2024-02-09 16:39:13.506 [info] Extensions added from another source eamodio.gitlens file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+2024-02-09 16:39:14.094 [info] Extensions added from another source donjayamanne.git-extension-pack file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+2024-02-09 19:50:59.657 [info] [127.0.0.1][9f8f3a17][ExtensionHostConnection] <39961> Extension Host Process exited with code: 0, signal: null.
+2024-02-09 19:50:59.665 [info] Last EH closed, waiting before shutting down
+2024-02-09 19:55:59.668 [info] Last EH closed, shutting down

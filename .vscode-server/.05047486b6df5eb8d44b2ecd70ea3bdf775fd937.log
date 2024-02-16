@@ -23,3 +23,5 @@ New EH opened, aborting shutdown
 [16:29:41] [127.0.0.1][25db5759][ExtensionHostConnection] <40331> Extension Host Process exited with code: 0, signal: null.
 Last EH closed, waiting before shutting down
 [16:29:41] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[16:34:41] Last EH closed, shutting down

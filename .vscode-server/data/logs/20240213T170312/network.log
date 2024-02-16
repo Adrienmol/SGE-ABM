@@ -1,0 +1,5 @@
+2024-02-13 17:04:09.497 [error] node #3: https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2024.0.1/1707247974458/Microsoft.VisualStudio.Code.Manifest - error GET getaddrinfo EAI_AGAIN ms-python.gallerycdn.vsassets.io
+2024-02-13 17:04:11.017 [error] node #4: https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2024.0.1/1707247974458/Microsoft.VisualStudio.Code.Manifest - error GET getaddrinfo EAI_AGAIN ms-python.gallerycdn.vsassets.io
+2024-02-13 17:04:49.675 [error] node #19: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2024-02-13 17:05:13.110 [error] node #20: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2024-02-16 14:48:28.054 [error] node #22: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET getaddrinfo EAI_AGAIN az764295.vo.msecnd.net

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<odoo>
+
+    <!-- explicit list view definition -->
+
+    <record model="ir.ui.view" id="tarea03abm.list_pacientes">
+      <field name="name">Vista medicos</field>
+      <field name="model">tarea03abm.medico</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="apellidos"/>
+          <field name="ncolegiado"/>
+        </tree>
+      </field>
+    </record>
+
+
+    <!-- actions opening views on models -->
+
+    <record model="ir.actions.act_window" id="tarea03abm.action_window_medico">
+      <field name="name">Medicos</field> <!-- Lo que sale cuando abres este apartado en la parte superior izquierda-->
+      <field name="res_model">tarea03abm.medico</field>
+      <field name="view_mode">tree, form</field>
+    </record>
+-
+
+   <!-- Menu que se muestra -->
+
+    <menuitem name="Hospital" id="tarea03abm_menu_root"/> 
+
+    <!-- Categoría -->
+
+    <menuitem name="Medicos" id="tarea03abm_medicos" parent="tarea03abm_menu_root" action="tarea03abm.action_window_medico"/>
+
+</odoo>

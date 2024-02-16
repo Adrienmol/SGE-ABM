@@ -1,0 +1,44 @@
+<odoo>
+  <data>
+    <!-- explicit list view definition -->
+
+    <record model="ir.ui.view" id="tarea03abm.list">
+      <field name="name">tarea03abm list</field>
+      <field name="model">tarea03abm.paciente</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="apellidos"/>
+          <field name="sintomas"/>
+        </tree>
+      </field>
+    </record>
+
+
+    <!-- actions opening views on models -->
+
+    <record model="ir.actions.act_window" id="tarea03abm.action_window">
+      <field name="name">tarea03abm window</field>
+      <field name="res_model">tarea03abm.tarea03abm</field>
+      <field name="view_mode">tree</field>
+    </record>
+-
+
+   <!-- Menu que se muestra -->
+
+    <menuitem name="Hospital" id="tarea03abm_menu_root"/>
+
+    <!-- Categoría -->
+
+    <menuitem name="Pacientes" id="tarea03abm_pacientes" parent="tarea03abm_menu_root"/>
+    
+
+    <!-- actions -->
+<!--
+    <menuitem name="List" id="tarea03abm.menu_1_list" parent="tarea03abm.menu_1"
+              action="tarea03abm.action_window"/>
+    <menuitem name="Server to list" id="tarea03abm" parent="tarea03abm.menu_2"
+              action="tarea03abm.action_server"/>
+-->
+  </data>
+</odoo>

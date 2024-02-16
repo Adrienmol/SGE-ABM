@@ -175,3 +175,57 @@ git branch -M main
 git remote add origin git@github.com:Adrienmol/SGE-ABM.git
 git push -u origin main
 git remote -v
+git add ./modules
+git commit -m Prueba commit
+git commit -m "Prueba commit"
+git push
+git add .
+odoo scaffold lista_tareas /mnt/extra-addons/
+sudo odoo scaffold lista_tareas /mnt/extra-addons/
+sudo odoo scaffold lista_tareas /mnt/extra-addons/
+odoo scaffold lista_tareas /mnt/extra-addons/
+cd ..
+ls -la
+odoo scaffold tarea03abm
+odoo scaffold tarea03abm ./modules
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+12345678
+service odoo restart
+12345678
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+hostname -I
+$ sudo dhclient -v
+
+hostname -I
+odoo -u tarea03 -d empresaabm
+sudo service odoo stop
+sudo service odoo start
+odoo -u tarea03 -d empresaabm
+ping 192.168.10.244
+ping 192.168.10.230

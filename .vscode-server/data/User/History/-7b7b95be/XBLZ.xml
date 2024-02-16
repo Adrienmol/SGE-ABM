@@ -1,0 +1,60 @@
+<odoo>
+  <data>
+    <!-- explicit list view definition -->
+
+    <record model="ir.ui.view" id="tarea03abm.list">
+      <field name="name">tarea03abm list</field>
+      <field name="model">tarea03abm.modeloPaciente</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="apellidos"/>
+          <field name="sintomas"/>
+        </tree>
+      </field>
+    </record>
+
+
+    <!-- actions opening views on models -->
+<!--
+    <record model="ir.actions.act_window" id="tarea03abm.action_window">
+      <field name="name">tarea03abm window</field>
+      <field name="res_model">tarea03abm.tarea03abm</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+-->
+
+    <!-- server action to the one above -->
+<!--
+    <record model="ir.actions.server" id="tarea03abm.action_server">
+      <field name="name">tarea03abm server</field>
+      <field name="model_id" ref="model_tarea03abm_tarea03abm"/>
+      <field name="state">code</field>
+      <field name="code">
+        action = {
+          "type": "ir.actions.act_window",
+          "view_mode": "tree,form",
+          "res_model": model._name,
+        }
+      </field>
+    </record>
+-->
+
+    <!-- Top menu item -->
+<!--
+    <menuitem name="tarea03abm" id="tarea03abm.menu_root"/>
+-->
+    <!-- menu categories -->
+<!--
+    <menuitem name="Menu 1" id="tarea03abm.menu_1" parent="tarea03abm.menu_root"/>
+    <menuitem name="Menu 2" id="tarea03abm.menu_2" parent="tarea03abm.menu_root"/>
+-->
+    <!-- actions -->
+<!--
+    <menuitem name="List" id="tarea03abm.menu_1_list" parent="tarea03abm.menu_1"
+              action="tarea03abm.action_window"/>
+    <menuitem name="Server to list" id="tarea03abm" parent="tarea03abm.menu_2"
+              action="tarea03abm.action_server"/>
+-->
+  </data>
+</odoo>

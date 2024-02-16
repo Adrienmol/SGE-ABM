@@ -1,0 +1,116 @@
+2024-02-13 17:03:12.602 [info] 
+
+
+
+
+2024-02-13 17:03:12.623 [info] Extension host agent started.
+2024-02-13 17:03:12.886 [info] [127.0.0.1][645c6fc5][ManagementConnection] New connection established.
+2024-02-13 17:03:12.897 [info] [127.0.0.1][de7a4b6f][ExtensionHostConnection] New connection established.
+2024-02-13 17:03:13.060 [info] [127.0.0.1][de7a4b6f][ExtensionHostConnection] <1684> Launched Extension Host Process.
+2024-02-13 17:03:15.340 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-13 17:03:24.366 [info] [127.0.0.1][645c6fc5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-13 17:03:24.623 [info] [127.0.0.1][de7a4b6f][ExtensionHostConnection] <1684> Extension Host Process exited with code: 0, signal: null.
+2024-02-13 17:03:24.623 [info] Cancelling previous shutdown timeout
+2024-02-13 17:03:24.624 [info] Last EH closed, waiting before shutting down
+2024-02-13 17:03:31.886 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-02-13 17:03:31.886 [info] Cancelling previous shutdown timeout
+2024-02-13 17:03:32.015 [info] [127.0.0.1][980d1636][ManagementConnection] New connection established.
+2024-02-13 17:03:32.045 [info] [127.0.0.1][aafeeed6][ExtensionHostConnection] New connection established.
+2024-02-13 17:03:32.061 [info] [127.0.0.1][aafeeed6][ExtensionHostConnection] <1831> Launched Extension Host Process.
+2024-02-13 17:03:34.974 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-13 17:03:49.468 [info] Getting Manifest... ms-python.python
+2024-02-13 17:03:50.994 [info] Getting Manifest... ms-python.python
+2024-02-13 17:04:16.352 [info] Installing extension: ms-python.python
+2024-02-13 17:04:16.355 [info] Extensions is already requested to install ms-python.python
+2024-02-13 17:04:17.523 [info] Getting Manifest... ms-python.vscode-pylance
+2024-02-13 17:04:18.009 [info] Getting Manifest... ms-python.debugpy
+2024-02-13 17:04:18.468 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2024-02-13 17:04:18.469 [info] Installing extension: ms-python.debugpy ms-python.python
+2024-02-13 17:04:21.158 [warning] Extension signature verification failed with error 'ENOENT': ms-python.debugpy
+2024-02-13 17:04:22.812 [info] Extracted extension to file:///var/lib/odoo/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2024-02-13 17:04:22.820 [info] Renamed to /var/lib/odoo/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2024-02-13 17:04:22.823 [info] Extracting extension completed. ms-python.debugpy
+2024-02-13 17:04:23.059 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2024-02-13 17:04:27.623 [info] Extracted extension to file:///var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1: ms-python.python
+2024-02-13 17:04:27.632 [info] Renamed to /var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1
+2024-02-13 17:04:27.639 [info] Extracting extension completed. ms-python.python
+2024-02-13 17:08:31.887 [info] New EH opened, aborting shutdown
+2024-02-15 15:54:28.684 [info] [127.0.0.1][13c2afd7][ManagementConnection] New connection established.
+2024-02-15 15:54:28.727 [info] [127.0.0.1][885dbea1][ExtensionHostConnection] New connection established.
+2024-02-15 15:54:28.743 [info] [127.0.0.1][885dbea1][ExtensionHostConnection] <3609> Launched Extension Host Process.
+2024-02-15 15:54:33.942 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateIcon (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:27592)
+    at U.<computed> (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-15 15:54:33.947 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/var/lib/odoo/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-15 15:55:38.486 [info] [127.0.0.1][13c2afd7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 15:55:38.714 [info] [127.0.0.1][885dbea1][ExtensionHostConnection] <3609> Extension Host Process exited with code: 0, signal: null.
+2024-02-15 15:55:46.625 [info] [127.0.0.1][47d5cbba][ManagementConnection] New connection established.
+2024-02-15 15:55:46.767 [info] [127.0.0.1][30547449][ExtensionHostConnection] New connection established.
+2024-02-15 15:55:46.845 [info] [127.0.0.1][30547449][ExtensionHostConnection] <3781> Launched Extension Host Process.
+2024-02-16 14:48:07.999 [info] [127.0.0.1][c43214e5][ManagementConnection] New connection established.
+2024-02-16 14:48:08.032 [info] [127.0.0.1][1cc5e93d][ExtensionHostConnection] New connection established.
+2024-02-16 14:48:08.047 [info] [127.0.0.1][1cc5e93d][ExtensionHostConnection] <10434> Launched Extension Host Process.
+2024-02-16 14:48:31.607 [info] Getting Manifest... eamodio.gitlens
+2024-02-16 14:48:36.776 [info] Installing extension: eamodio.gitlens
+2024-02-16 14:48:37.745 [warning] Extension signature verification failed with error 'ENOENT': eamodio.gitlens
+2024-02-16 14:48:38.781 [info] Extracted extension to file:///var/lib/odoo/.vscode-server/extensions/eamodio.gitlens-14.8.1: eamodio.gitlens
+2024-02-16 14:48:38.795 [info] Renamed to /var/lib/odoo/.vscode-server/extensions/eamodio.gitlens-14.8.1
+2024-02-16 14:48:38.802 [info] Extracting extension completed. eamodio.gitlens
+2024-02-16 14:48:38.807 [info] Extension installed successfully: eamodio.gitlens
+2024-02-16 14:48:38.888 [info] Marked extension as uninstalled eamodio.gitlens-14.8.0
+2024-02-16 14:49:53.184 [info] [127.0.0.1][c43214e5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-16 14:49:53.247 [info] [127.0.0.1][1cc5e93d][ExtensionHostConnection] <10434> Extension Host Process exited with code: 0, signal: null.
+2024-02-16 14:50:12.020 [info] [127.0.0.1][f9ea5722][ManagementConnection] New connection established.
+2024-02-16 14:50:12.060 [info] [127.0.0.1][6bbb8f0d][ExtensionHostConnection] New connection established.
+2024-02-16 14:50:12.079 [info] [127.0.0.1][6bbb8f0d][ExtensionHostConnection] <10653> Launched Extension Host Process.
+2024-02-16 14:53:08.479 [info] [127.0.0.1][aafeeed6][ExtensionHostConnection] <1831> Extension Host Process exited with code: 0, signal: null.

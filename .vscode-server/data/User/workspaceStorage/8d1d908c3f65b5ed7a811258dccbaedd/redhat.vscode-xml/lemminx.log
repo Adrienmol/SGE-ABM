@@ -5,3 +5,54 @@ LemMinX Server info:
  - Native Image
  - VM Version : 17.0.2
  - Git 8379294 - [maven-release-plugin] prepare release 0.26.1
+Feb 15, 2024 3:55:50 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.26.1
+ - Native Image
+ - VM Version : 17.0.2
+ - Git 8379294 - [maven-release-plugin] prepare release 0.26.1
+Feb 15, 2024 4:26:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 107
+Feb 15, 2024 4:26:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 114
+Feb 15, 2024 4:33:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 265
+Feb 15, 2024 4:35:07 PM org.eclipse.lemminx.services.XMLHighlighting findDocumentHighlights
+SEVERE: In XMLHighlighting the client provided Position is at a BadLocation
+org.eclipse.lemminx.commons.BadLocationException: The character value, {82} of the line39}, is out of bounds.
+	at org.eclipse.lemminx.commons.TreeLineTracker.getOffsetAt(TreeLineTracker.java:1245)
+	at org.eclipse.lemminx.commons.TextDocument.offsetAt(TextDocument.java:71)
+	at org.eclipse.lemminx.dom.DOMDocument.offsetAt(DOMDocument.java:95)
+	at org.eclipse.lemminx.services.XMLHighlighting.findDocumentHighlights(XMLHighlighting.java:57)
+	at org.eclipse.lemminx.services.XMLLanguageService.findDocumentHighlights(XMLLanguageService.java:144)
+	at org.eclipse.lemminx.XMLTextDocumentService.lambda$documentHighlight$6(XMLTextDocumentService.java:288)
+	at org.eclipse.lemminx.commons.ModelTextDocuments.lambda$computeModelAsync$0(ModelTextDocuments.java:118)
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+	at com.oracle.svm.core.thread.JavaThreads.threadStartRoutine(JavaThreads.java:597)
+	at com.oracle.svm.core.posix.thread.PosixJavaThreads.pthreadStartRoutine(PosixJavaThreads.java:194)
+
+Feb 15, 2024 4:35:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 288
+Feb 15, 2024 4:37:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 338
+Feb 15, 2024 4:38:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 402
+Feb 15, 2024 4:41:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 482
+Feb 15, 2024 4:42:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 549
+Feb 15, 2024 4:51:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1343
+Feb 15, 2024 4:58:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1640
+Feb 15, 2024 5:10:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2004
+Feb 15, 2024 5:15:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2183

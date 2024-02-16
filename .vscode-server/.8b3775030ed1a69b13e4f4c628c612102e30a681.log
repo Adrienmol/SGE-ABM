@@ -361,3 +361,15 @@ Cancelling previous shutdown timeout
 [16:13:35] [127.0.0.1][9f8f3a17][ExtensionHostConnection] <39961> Launched Extension Host Process.
 New EH opened, aborting shutdown
 [16:18:34] New EH opened, aborting shutdown
+[16:34:49] Extensions added from another source felipecaputo.git-project-manager file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+[16:39:11] Extensions added from another source codezombiech.gitignore file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+[16:39:12] Extensions added from another source donjayamanne.githistory file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+[16:39:12] Extensions added from another source alefragnani.project-manager file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+[16:39:12] Extensions added from another source ziyasal.vscode-open-in-github file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+[16:39:13] Extensions added from another source eamodio.gitlens file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+[16:39:14] Extensions added from another source donjayamanne.git-extension-pack file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+[19:50:59] [127.0.0.1][9f8f3a17][ExtensionHostConnection] <39961> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[19:50:59] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[19:55:59] Last EH closed, shutting down

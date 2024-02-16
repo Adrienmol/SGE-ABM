@@ -1,0 +1,91 @@
+2024-02-16 14:50:15.002 [info] Extension host with pid 10653 started
+2024-02-16 14:50:15.002 [error] Error: EEXIST: file already exists, open '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock'
+2024-02-16 14:50:15.010 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-02-16 14:50:15.030 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock': The lock does not look stale, elapsed: 900 ms, giving up.
+2024-02-16 14:50:15.032 [error] Error: EEXIST: file already exists, open '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock'
+2024-02-16 14:50:15.032 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-02-16 14:50:15.034 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock': The pid 12808 appears to be gone.
+2024-02-16 14:50:15.034 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock': Deleting a stale lock.
+2024-02-16 14:50:15.040 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock': Lock acquired.
+2024-02-16 14:50:15.223 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-16 14:50:15.442 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-16 14:50:15.442 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-16 14:50:15.993 [info] Eager extensions activated
+2024-02-16 14:50:15.993 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-16 14:50:15.994 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-16 14:50:15.995 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-16 14:50:15.995 [info] ExtensionService#_doActivateExtension felipecaputo.git-project-manager, startup: false, activationEvent: 'onStartupFinished'
+2024-02-16 14:50:16.861 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5203
+2024-02-16 14:50:18.463 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-02-16 14:50:18.464 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-02-16 14:50:18.464 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-16 14:50:19.182 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5203
+2024-02-16 15:09:56.212 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5211
+2024-02-16 15:09:57.322 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5211
+2024-02-16 15:12:57.031 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5211
+2024-02-16 15:12:58.037 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5211
+2024-02-16 15:15:57.871 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5211
+2024-02-16 15:18:58.727 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5211
+2024-02-16 15:18:59.621 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5211
+2024-02-16 15:32:31.936 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-16 15:38:26.246 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5214
+2024-02-16 15:38:27.325 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5214
+2024-02-16 15:40:28.401 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 15:41:27.126 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5324
+2024-02-16 15:41:28.239 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5323
+2024-02-16 15:44:28.030 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5346
+2024-02-16 15:44:29.150 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5346
+2024-02-16 15:47:26.727 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 15:47:48.349 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5356
+2024-02-16 15:47:49.436 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5356
+2024-02-16 15:47:50.225 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 15:47:51.258 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 15:48:12.847 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 15:48:14.274 [info] ExtensionService#_doActivateExtension redhat.vscode-xml, startup: false, activationEvent: 'onLanguage:xml'
+2024-02-16 15:48:15.231 [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.
+2024-02-16 15:48:22.810 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5360
+2024-02-16 15:50:49.176 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5367
+2024-02-16 15:50:50.234 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5367
+2024-02-16 15:51:48.243 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 15:52:47.674 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5369
+2024-02-16 15:52:52.963 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5370
+2024-02-16 15:53:50.041 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5370
+2024-02-16 15:53:50.943 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5370
+2024-02-16 15:56:01.258 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 15:57:00.932 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5371
+2024-02-16 15:57:02.160 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5371
+2024-02-16 15:58:00.581 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5376
+2024-02-16 15:58:49.468 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 16:00:02.791 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5379
+2024-02-16 16:00:03.865 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5379
+2024-02-16 16:03:13.667 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5379
+2024-02-16 16:03:14.547 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5379
+2024-02-16 16:05:01.867 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5379
+2024-02-16 16:06:24.550 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5379
+2024-02-16 16:06:25.565 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5379
+2024-02-16 16:07:13.698 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5379
+2024-02-16 16:08:24.101 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5379
+2024-02-16 16:09:17.013 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 16:09:39.504 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 16:09:44.891 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5386
+2024-02-16 16:09:45.967 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5386
+2024-02-16 16:09:47.870 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-16 16:13:00.861 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5386
+2024-02-16 16:13:02.024 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5386
+2024-02-16 16:16:01.702 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5410
+2024-02-16 16:16:02.932 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5412
+2024-02-16 16:19:02.561 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5440
+2024-02-16 16:19:03.509 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5440
+2024-02-16 16:22:08.457 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5443
+2024-02-16 16:22:09.592 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5443

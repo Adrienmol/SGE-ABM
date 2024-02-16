@@ -1,0 +1,36 @@
+2024-02-15 15:57:01.809 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-15 15:57:01.810 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-15 15:57:01.810 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-15 15:57:01.810 [info] Experiment 'pythonTestAdapter' is active
+2024-02-15 15:57:01.976 [info] Default formatter is set to null for workspace /var/lib/odoo/modules
+2024-02-15 15:57:02.002 [info] Test server listening.
+2024-02-15 15:57:02.023 [info] > conda info --json
+2024-02-15 15:57:02.037 [info] Found: /bin/python3 --> /bin/python3.10
+2024-02-15 15:57:02.039 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-02-15 15:57:02.053 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-02-15 15:57:02.053 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-02-15 15:57:02.095 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-15 15:57:02.129 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-15 15:57:02.161 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 15:57:02.161 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 15:57:02.161 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 15:57:02.161 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 15:57:02.161 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 15:57:02.162 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-15 15:57:02.162 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-15 15:57:02.162 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-15 15:57:02.186 [info] Python interpreter path: /bin/python3
+2024-02-15 15:57:02.265 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 15:57:02.265 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 15:57:03.250 [info] Starting Jedi language server for modules.
+2024-02-15 16:26:21.200 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/models/__init__.py
+2024-02-15 16:26:59.247 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/__manifest__.py
+2024-02-15 16:31:25.793 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/models/medico.py
+2024-02-15 16:31:50.357 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/models/medico.py
+2024-02-15 16:34:18.129 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/models/medico.py
+2024-02-15 16:36:02.589 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/__manifest__.py
+2024-02-15 16:39:54.468 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/models/__init__.py
+2024-02-15 16:56:48.601 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/__manifest__.py
+2024-02-15 16:57:00.712 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/__manifest__.py
+2024-02-15 16:59:07.725 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/__manifest__.py
+2024-02-15 17:16:12.746 [info] Discover tests for workspace name: modules - uri: /var/lib/odoo/modules/tarea03abm/__manifest__.py
