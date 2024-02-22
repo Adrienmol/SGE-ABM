@@ -1,0 +1,90 @@
+2024-02-22 15:30:51.575 [info] Extension host with pid 28001 started
+2024-02-22 15:30:51.575 [error] Error: EEXIST: file already exists, open '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock'
+2024-02-22 15:30:51.589 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-02-22 15:30:51.625 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7/vscode.lock': The lock does not look stale, elapsed: 203 ms, giving up.
+2024-02-22 15:30:51.626 [error] Error: EEXIST: file already exists, open '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock'
+2024-02-22 15:30:51.627 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-02-22 15:30:51.633 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-1/vscode.lock': The lock does not look stale, elapsed: 213 ms, giving up.
+2024-02-22 15:30:51.646 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/b09d447946748cf914d57fecda080cc7-2/vscode.lock': Lock acquired.
+2024-02-22 15:30:52.175 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-02-22 15:30:52.177 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-02-22 15:30:52.179 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-22 15:30:53.181 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-22 15:30:53.587 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-22 15:30:53.595 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-22 15:30:54.331 [info] Eager extensions activated
+2024-02-22 15:30:54.332 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-22 15:30:54.334 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-22 15:30:54.335 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-22 15:30:54.336 [info] ExtensionService#_doActivateExtension felipecaputo.git-project-manager, startup: false, activationEvent: 'onStartupFinished'
+2024-02-22 15:30:55.533 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2380
+2024-02-22 15:30:56.686 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2384
+2024-02-22 15:30:57.322 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-22 15:33:57.577 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2385
+2024-02-22 15:33:58.186 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2385
+2024-02-22 15:35:53.035 [info] ExtensionService#_doActivateExtension redhat.vscode-xml, startup: false, activationEvent: 'onLanguage:xml'
+2024-02-22 15:35:53.758 [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.
+2024-02-22 15:36:58.390 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2389
+2024-02-22 15:36:58.827 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2389
+2024-02-22 15:40:00.241 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2389
+2024-02-22 15:40:00.919 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2389
+2024-02-22 15:43:01.069 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2391
+2024-02-22 15:43:01.788 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2391
+2024-02-22 15:44:34.719 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2391
+2024-02-22 15:46:01.823 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2392
+2024-02-22 15:46:02.256 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2392
+2024-02-22 15:49:02.605 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2399
+2024-02-22 15:49:03.162 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2399
+2024-02-22 15:51:38.134 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2402
+2024-02-22 15:52:06.884 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2403
+2024-02-22 15:52:07.447 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2403
+2024-02-22 15:53:16.246 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2403
+2024-02-22 15:54:54.213 [warning] TextEditor is closed/disposed
+2024-02-22 15:55:07.702 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2413
+2024-02-22 15:55:08.255 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2413
+2024-02-22 15:55:28.512 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2414
+2024-02-22 15:55:30.212 [warning] TextEditor is closed/disposed
+2024-02-22 15:55:30.266 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model58)
+2024-02-22 15:55:57.592 [warning] TextEditor is closed/disposed
+2024-02-22 15:56:03.908 [warning] TextEditor is closed/disposed
+2024-02-22 15:56:04.459 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2417
+2024-02-22 15:56:12.536 [error] [ms-python.python] provider FAILED
+2024-02-22 15:56:12.536 [error] Error: ValueError: `column` parameter (16) is not in a valid range (0-15) for line 14 ('    cicloPertec').
+	at /var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/out/client/extension.js:2:2318031
+	at re (/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/out/client/extension.js:2:2318325)
+	at /var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/out/client/extension.js:2:2313109
+	at Immediate.<anonymous> (/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/out/client/extension.js:2:2313129)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-02-22 15:56:21.391 [warning] TextEditor is closed/disposed
+2024-02-22 15:56:52.850 [warning] TextEditor is closed/disposed
+2024-02-22 15:56:57.046 [warning] TextEditor is closed/disposed
+2024-02-22 15:57:00.273 [warning] TextEditor is closed/disposed
+2024-02-22 15:57:14.555 [warning] TextEditor is closed/disposed
+2024-02-22 15:57:17.175 [warning] TextEditor is closed/disposed
+2024-02-22 15:57:23.943 [warning] TextEditor is closed/disposed
+2024-02-22 15:58:20.656 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2423
+2024-02-22 15:58:21.258 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2423
+2024-02-22 15:58:36.937 [warning] TextEditor is closed/disposed
+2024-02-22 15:58:42.465 [warning] TextEditor is closed/disposed
+2024-02-22 15:58:53.102 [warning] TextEditor is closed/disposed
+2024-02-22 15:58:57.351 [warning] TextEditor is closed/disposed
+2024-02-22 15:58:57.642 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2423
+2024-02-22 15:59:25.678 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2424
+2024-02-22 16:01:52.597 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2424
+2024-02-22 16:01:53.169 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2424
+2024-02-22 16:04:53.398 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2424
+2024-02-22 16:04:54.043 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2424
+2024-02-22 16:06:32.201 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2424
+2024-02-22 16:08:25.073 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2425
+2024-02-22 16:08:25.632 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2425
+2024-02-22 16:09:05.007 [warning] TextEditor is closed/disposed
+2024-02-22 16:09:15.313 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2425
+2024-02-22 16:09:16.450 [warning] TextEditor is closed/disposed
+2024-02-22 16:09:22.372 [warning] TextEditor is closed/disposed
+2024-02-22 16:09:32.106 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-02-22 16:09:48.406 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2427
+2024-02-22 16:10:27.302 [warning] TextEditor is closed/disposed
+2024-02-22 16:10:33.287 [warning] TextEditor is closed/disposed
+2024-02-22 16:10:38.235 [warning] TextEditor is closed/disposed
+2024-02-22 16:11:29.814 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2429
+2024-02-22 16:11:30.441 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2429

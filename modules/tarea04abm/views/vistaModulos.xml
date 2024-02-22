@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <!-- Definición explícita de la vista de lista -->
+    <record model="ir.ui.view" id="tarea04abm.list_modulos">
+        <field name="name">tarea04abm modulos</field>
+        <field name="model">tarea04abm.modulos</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="nombreModulo"/>
+                <field name="cicloPertenece"/>
+                <field name="profesorImparte"/>
+                <field name="alumnosMatriculados"/>                            
+            </tree>
+        </field>
+    </record>
+
+    <!-- Acciones que abren vistas en modelos -->
+    <record model="ir.actions.act_window" id="tarea04abm.action_window_modulos">
+        <field name="name">Modulos</field> <!-- Lo que sale cuando abres este apartado en la parte superior izquierda -->
+        <field name="res_model">tarea04abm.modulos</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- Menú que se muestra arriba a la izquierda -->
+    <menuitem name="CiclosModulos" id="tarea04abm_menuPrincipal"/>
+
+    <menuitem name="Menu Estudios" id="tarea04abm_menuEstudios" parent="tarea04abm_menuPrincipal"/>
+
+    <menuitem name="Modulos" id="tarea04abm_modulos" parent="tarea04abm_menuEstudios" action="tarea04abm.action_window_modulos"/>
+</odoo>

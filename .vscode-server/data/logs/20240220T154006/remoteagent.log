@@ -1,0 +1,31 @@
+2024-02-20 15:40:06.872 [info] 
+
+
+
+
+2024-02-20 15:40:06.888 [info] Extension host agent started.
+2024-02-20 15:40:07.067 [info] Deleted uninstalled extension from disk eamodio.gitlens /var/lib/odoo/.vscode-server/extensions/eamodio.gitlens-14.8.0
+2024-02-20 15:40:07.115 [info] [127.0.0.1][a1373c22][ManagementConnection] New connection established.
+2024-02-20 15:40:07.117 [info] [127.0.0.1][0511ad12][ExtensionHostConnection] New connection established.
+2024-02-20 15:40:07.313 [info] [127.0.0.1][0511ad12][ExtensionHostConnection] <20481> Launched Extension Host Process.
+2024-02-20 15:40:12.936 [info] Getting Manifest... eamodio.gitlens
+2024-02-20 15:40:13.099 [info] Installing extension: eamodio.gitlens
+2024-02-20 15:40:14.009 [warning] Extension signature verification failed with error 'ENOENT': eamodio.gitlens
+2024-02-20 15:40:15.073 [info] Extracted extension to file:///var/lib/odoo/.vscode-server/extensions/eamodio.gitlens-14.8.2: eamodio.gitlens
+2024-02-20 15:40:15.092 [info] Renamed to /var/lib/odoo/.vscode-server/extensions/eamodio.gitlens-14.8.2
+2024-02-20 15:40:15.103 [info] Extracting extension completed. eamodio.gitlens
+2024-02-20 15:40:15.110 [info] Extension installed successfully: eamodio.gitlens
+2024-02-20 15:40:15.153 [info] Marked extension as uninstalled eamodio.gitlens-14.8.1
+2024-02-20 15:40:27.059 [info] [127.0.0.1][a1373c22][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-20 15:40:27.082 [info] [127.0.0.1][0511ad12][ExtensionHostConnection] <20481> Extension Host Process exited with code: 0, signal: null.
+2024-02-20 15:40:27.084 [info] Cancelling previous shutdown timeout
+2024-02-20 15:40:27.085 [info] Last EH closed, waiting before shutting down
+2024-02-20 15:41:29.567 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-02-20 15:41:29.567 [info] Cancelling previous shutdown timeout
+2024-02-20 15:41:29.716 [info] [127.0.0.1][58d5db6e][ManagementConnection] New connection established.
+2024-02-20 15:41:29.747 [info] [127.0.0.1][0e01bfcf][ExtensionHostConnection] New connection established.
+2024-02-20 15:41:29.761 [info] [127.0.0.1][0e01bfcf][ExtensionHostConnection] <20691> Launched Extension Host Process.
+2024-02-20 15:46:29.571 [info] New EH opened, aborting shutdown
+2024-02-22 15:30:49.531 [info] [127.0.0.1][22088471][ManagementConnection] New connection established.
+2024-02-22 15:30:49.535 [info] [127.0.0.1][c4c8721f][ExtensionHostConnection] New connection established.
+2024-02-22 15:30:49.553 [info] [127.0.0.1][c4c8721f][ExtensionHostConnection] <28001> Launched Extension Host Process.

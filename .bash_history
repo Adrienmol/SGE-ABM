@@ -229,3 +229,122 @@ sudo service odoo start
 odoo -u tarea03 -d empresaabm
 ping 192.168.10.244
 ping 192.168.10.230
+odoo scaffold tarea04abm ./modules
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+ls
+cd modules/
+ls
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+sudo service odoo restart
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+sudo service odoo restart
+sudo service odoo restart
+odoo -u tarea04abm -d empresaabm
+service odoo status
+odoo -u tarea04abm -d empresaabm
+service odoo stop
+odoo -u tarea04abm -d empresaabm
+service odoo start
+odoo -u tarea03 -d empresaabm
+ping 192.168.10.230
+ping 192.168.10.229
+sudo service odoo start
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+service odoo restart
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart
+odoo -u tarea03 -d empresaabm
+sudo service odoo restart

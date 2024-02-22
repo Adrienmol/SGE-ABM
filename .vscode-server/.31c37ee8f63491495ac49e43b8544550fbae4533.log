@@ -189,3 +189,5 @@ stack trace: CodeExpectedError: Could not find pty on pty host
 [14:50:12] [127.0.0.1][6bbb8f0d][ExtensionHostConnection] New connection established.
 [14:50:12] [127.0.0.1][6bbb8f0d][ExtensionHostConnection] <10653> Launched Extension Host Process.
 [14:53:08] [127.0.0.1][aafeeed6][ExtensionHostConnection] <1831> Extension Host Process exited with code: 0, signal: null.
+[15:40:15] Extensions added from another source eamodio.gitlens file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+[16:27:12] [127.0.0.1][30547449][ExtensionHostConnection] <3781> Extension Host Process exited with code: 0, signal: null.

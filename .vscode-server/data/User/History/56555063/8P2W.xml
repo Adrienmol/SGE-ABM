@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <!-- Definición explícita de la vista de lista -->
+    <record model="ir.ui.view" id="tarea04abm.list_ciclos">
+        <field name="name">tarea04abm ciclos</field>
+        <field name="model">tarea04abm.ciclos</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="name"/>
+                <field name="apellidos"/>
+                <field name="sintomas"/>
+                <field name="diagnostico"/>
+            </tree>
+        </field>
+    </record>
+
+    <!-- Acciones que abren vistas en modelos -->
+    <record model="ir.actions.act_window" id="tarea03abm.action_window_pacientes">
+        <field name="name">Pacientes</field> <!-- Lo que sale cuando abres este apartado en la parte superior izquierda -->
+        <field name="res_model">tarea03abm.paciente</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- Menú que se muestra -->
+    <menuitem name="Hospital" id="tarea03abm_menu_root"/>
+
+    <menuitem name="Pacientes" id="tarea03abm_pacientes" parent="tarea03abm_menu_root" action="tarea03abm.action_window_pacientes"/>
+</odoo>

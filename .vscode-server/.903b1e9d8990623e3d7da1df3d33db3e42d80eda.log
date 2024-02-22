@@ -1,0 +1,88 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:46261 (IPv4)
+Extension host agent listening on 46261
+
+[16:15:57] 
+
+
+
+
+[16:15:57] Extension host agent started.
+[16:15:57] [127.0.0.1][8b5338b3][ManagementConnection] New connection established.
+[16:15:57] Deleted uninstalled extension from disk eamodio.gitlens /var/lib/odoo/.vscode-server/extensions/eamodio.gitlens-14.8.1
+[16:15:57] [127.0.0.1][92611184][ExtensionHostConnection] New connection established.
+[16:15:57] [127.0.0.1][92611184][ExtensionHostConnection] <1529> Launched Extension Host Process.
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at A.U (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[16:16:00] Error [CodeExpectedError]: Could not find pty on pty host
+    at A.U (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+Got delay-shutdown request while in shutdown timeout, delaying
+[16:16:24] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[16:16:24] Cancelling previous shutdown timeout
+[16:16:24] [127.0.0.1][527f7efe][ManagementConnection] New connection established.
+[16:16:24] [127.0.0.1][c2a693c7][ExtensionHostConnection] New connection established.
+[16:16:24] [127.0.0.1][c2a693c7][ExtensionHostConnection] <1676> Launched Extension Host Process.
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at A.U (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[16:16:27] Error [CodeExpectedError]: Could not find pty on pty host
+    at A.U (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/var/lib/odoo/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+New EH opened, aborting shutdown
+[16:21:24] New EH opened, aborting shutdown
+[16:21:24] [127.0.0.1][92611184][ExtensionHostConnection] <1529> Extension Host Process exited with code: 0, signal: null.

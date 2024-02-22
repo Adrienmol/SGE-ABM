@@ -1,0 +1,20 @@
+2024-02-22 15:30:53.851 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-22 15:30:53.852 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-22 15:30:53.852 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-22 15:30:53.853 [info] Experiment 'pythonTestAdapter' is active
+2024-02-22 15:30:54.005 [info] Default formatter is set to null for workspace /var/lib/odoo
+2024-02-22 15:30:54.052 [info] Test server listening.
+2024-02-22 15:30:54.056 [info] Python interpreter path: /bin/python3
+2024-02-22 15:30:57.394 [info] Starting Jedi language server for odoo.
+2024-02-22 15:53:42.301 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/ciclos.py
+2024-02-22 15:54:15.194 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/ciclos.py
+2024-02-22 15:54:43.816 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/ciclos.py
+2024-02-22 15:55:17.133 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/ciclos.py
+2024-02-22 15:55:40.700 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/ciclos.py
+2024-02-22 15:56:14.855 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 15:56:20.271 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/ciclos.py
+2024-02-22 15:57:30.922 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:09:27.585 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:10:10.744 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:10:12.606 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:12:16.310 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py

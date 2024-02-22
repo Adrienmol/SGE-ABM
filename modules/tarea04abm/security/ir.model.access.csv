@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_tarea04abm_modulos,tarea04abm.modulos_default,model_tarea04abm_modulos,base.group_user,1,1,1,1
+access_tarea04abm_alumnos,tarea04abm.alumnos_default,model_tarea04abm_alumnos,base.group_user,1,1,1,1
+access_tarea04abm_profesores,tarea04abm.profesores_default,model_tarea04abm_profesores,base.group_user,1,1,1,1
+access_tarea04abm_ciclos,tarea04abm.ciclos_default,model_tarea04abm_ciclos,base.group_user,1,1,1,1

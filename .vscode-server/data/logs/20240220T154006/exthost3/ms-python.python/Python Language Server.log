@@ -1,0 +1,125 @@
+2024-02-22 15:30:57.919 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1"
+
+2024-02-22 15:53:33.068 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "31"
+
+2024-02-22 15:53:33.647 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "32"
+WARNING:pygls.protocol:Cancel notification for unknown message id "33"
+
+2024-02-22 15:53:34.267 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "35"
+
+2024-02-22 15:53:34.269 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "36"
+
+2024-02-22 15:53:34.838 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "37"
+
+2024-02-22 15:53:35.416 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "38"
+
+2024-02-22 15:53:35.455 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "39"
+
+2024-02-22 15:53:36.025 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "42"
+
+2024-02-22 15:53:36.036 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "43"
+
+2024-02-22 15:53:36.038 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "44"
+
+2024-02-22 15:53:36.051 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "45"
+
+2024-02-22 15:53:38.585 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "57"
+
+2024-02-22 15:53:39.389 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "61"
+
+2024-02-22 15:54:15.725 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "84"
+
+2024-02-22 15:54:15.736 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "85"
+
+2024-02-22 15:54:16.409 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "86"
+
+2024-02-22 15:54:16.412 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "87"
+
+2024-02-22 15:54:16.465 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "88"
+
+2024-02-22 15:54:39.589 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "95"
+
+2024-02-22 15:54:57.556 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "127"
+
+2024-02-22 15:55:28.892 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "168"
+
+2024-02-22 15:55:57.719 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "198"
+
+2024-02-22 15:56:03.915 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "205"
+
+2024-02-22 15:56:07.278 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "211"
+
+2024-02-22 15:56:07.314 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "212"
+
+2024-02-22 15:56:07.880 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "214"
+
+2024-02-22 15:56:07.890 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "215"
+
+2024-02-22 15:56:08.620 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "217"
+
+2024-02-22 15:56:08.621 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "218"
+
+2024-02-22 15:56:09.974 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "220"
+
+2024-02-22 15:56:09.975 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "221"
+
+2024-02-22 15:56:11.636 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "226"
+
+2024-02-22 15:56:11.671 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "227"
+
+2024-02-22 15:56:12.233 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "229"
+
+2024-02-22 15:56:12.281 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "230"
+
+2024-02-22 15:56:12.534 [info] ERROR:pygls.protocol:Failed to handle request 232 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///var/lib/odoo/modules/tarea04abm/models/modulos.py'), range=13:16-13:16, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 558, in code_action
+    inline_refactoring = jedi_script.inline(*jedi_lines)
+  File "/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 697, in inline
+    names = [d._name for d in self.get_references(line, column, include_builtins=True)]
+  File "/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper
+    raise ValueError('`column` parameter (%d) is not in a valid range '
+ValueError: `column` parameter (16) is not in a valid range (0-15) for line 14 ('    cicloPertec').
+
+2024-02-22 15:56:12.536 [info] [Error - 15:56:12] Request textDocument/codeAction failed.
+2024-02-22 15:56:12.536 [info]   Message: ValueError: `column` parameter (16) is not in a valid range (0-15) for line 14 ('    cicloPertec').
+  Code: -32602 
+{'traceback': ['  File "/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 558, in code_action\n    inline_refactoring = jedi_script.inline(*jedi_lines)\n', '  File "/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 697, in inline\n    names = [d._name for d in self.get_references(line, column, include_builtins=True)]\n', '  File "/var/lib/odoo/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper\n    raise ValueError(\'`column` parameter (%d) is not in a valid range \'\n']}
+2024-02-22 15:56:12.538 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "232"
+
+2024-02-22 15:56:13.454 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "233"
+
+2024-02-22 15:56:13.486 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "234"
+
+2024-02-22 15:56:50.203 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "267"
+
+2024-02-22 15:56:50.205 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "268"
+
+2024-02-22 15:57:02.587 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "296"
+
+2024-02-22 15:57:02.589 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "297"
+
+2024-02-22 16:09:26.483 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "374"
+
+2024-02-22 16:10:06.996 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "384"
+
+2024-02-22 16:10:07.006 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "385"
+
+2024-02-22 16:10:09.488 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "394"
+
+2024-02-22 16:10:09.488 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "395"
+
+2024-02-22 16:10:09.789 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "399"
+
+2024-02-22 16:12:15.239 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "420"
+
+2024-02-22 16:12:15.241 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "421"
+
+2024-02-22 16:12:15.814 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "422"
+
+2024-02-22 16:12:15.832 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "423"
+

@@ -114,3 +114,5 @@
 2024-02-16 14:50:12.060 [info] [127.0.0.1][6bbb8f0d][ExtensionHostConnection] New connection established.
 2024-02-16 14:50:12.079 [info] [127.0.0.1][6bbb8f0d][ExtensionHostConnection] <10653> Launched Extension Host Process.
 2024-02-16 14:53:08.479 [info] [127.0.0.1][aafeeed6][ExtensionHostConnection] <1831> Extension Host Process exited with code: 0, signal: null.
+2024-02-20 15:40:15.278 [info] Extensions added from another source eamodio.gitlens file:///var/lib/odoo/.vscode-server/extensions/extensions.json
+2024-02-20 16:27:12.224 [info] [127.0.0.1][30547449][ExtensionHostConnection] <3781> Extension Host Process exited with code: 0, signal: null.

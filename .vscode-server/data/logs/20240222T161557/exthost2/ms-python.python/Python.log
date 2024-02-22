@@ -1,0 +1,27 @@
+2024-02-22 16:16:29.438 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-22 16:16:29.438 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-22 16:16:29.438 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-22 16:16:29.438 [info] Experiment 'pythonTestAdapter' is active
+2024-02-22 16:16:29.539 [info] Default formatter is set to null for workspace /var/lib/odoo
+2024-02-22 16:16:29.558 [info] Test server listening.
+2024-02-22 16:16:29.566 [info] Python interpreter path: /bin/python3
+2024-02-22 16:16:32.824 [info] Starting Jedi language server for odoo.
+2024-02-22 16:26:55.179 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:30:39.725 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:32:41.846 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:34:43.990 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:35:01.476 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:36:25.528 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:39:11.681 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:41:13.899 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:41:22.827 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:42:09.627 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/profesores.py
+2024-02-22 16:42:11.773 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/profesores.py
+2024-02-22 16:42:29.529 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/profesores.py
+2024-02-22 16:44:49.331 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/profesores.py
+2024-02-22 16:48:28.780 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:49:24.454 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/alumnos.py
+2024-02-22 16:50:14.515 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/alumnos.py
+2024-02-22 16:50:39.101 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py
+2024-02-22 16:54:53.842 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/alumnos.py
+2024-02-22 16:59:29.025 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/models/modulos.py

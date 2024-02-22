@@ -44,3 +44,39 @@ LemMinX Server info:
  - Native Image
  - VM Version : 17.0.2
  - Git 8379294 - [maven-release-plugin] prepare release 0.26.1
+Feb 20, 2024 4:25:52 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.26.1
+ - Native Image
+ - VM Version : 17.0.2
+ - Git 8379294 - [maven-release-plugin] prepare release 0.26.1
+Feb 20, 2024 4:31:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 85
+Feb 20, 2024 4:32:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 230
+Feb 20, 2024 4:35:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 676
+Feb 20, 2024 4:35:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 692
+Feb 20, 2024 4:36:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 901
+Feb 20, 2024 4:37:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1087
+Feb 20, 2024 4:38:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1194
+Feb 20, 2024 4:38:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1283
+Feb 20, 2024 5:10:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1408
+Feb 22, 2024 4:24:50 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.26.1
+ - Native Image
+ - VM Version : 17.0.2
+ - Git 8379294 - [maven-release-plugin] prepare release 0.26.1
+Feb 22, 2024 4:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Feb 22, 2024 4:43:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 168
