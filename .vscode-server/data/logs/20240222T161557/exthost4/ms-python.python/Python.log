@@ -1,0 +1,12 @@
+2024-02-23 15:02:34.718 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-23 15:02:34.718 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-23 15:02:34.718 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-23 15:02:34.718 [info] Experiment 'pythonTestAdapter' is active
+2024-02-23 15:02:34.719 [info] Default formatter is set to null for workspace /var/lib/odoo
+2024-02-23 15:02:34.719 [info] Test server listening.
+2024-02-23 15:02:34.719 [info] Python interpreter path: /bin/python3
+2024-02-23 15:02:37.739 [info] Starting Jedi language server for odoo.
+2024-02-23 15:20:01.126 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/__manifest__.py
+2024-02-23 15:22:03.192 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/__manifest__.py
+2024-02-23 15:24:19.987 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/__manifest__.py
+2024-02-23 15:24:40.302 [info] Discover tests for workspace name: odoo - uri: /var/lib/odoo/modules/tarea04abm/__manifest__.py

@@ -86,3 +86,11 @@ stack trace: CodeExpectedError: Could not find pty on pty host
 New EH opened, aborting shutdown
 [16:21:24] New EH opened, aborting shutdown
 [16:21:24] [127.0.0.1][92611184][ExtensionHostConnection] <1529> Extension Host Process exited with code: 0, signal: null.
+[15:02:17] [127.0.0.1][e49fae0a][ManagementConnection] New connection established.
+[15:02:17] [127.0.0.1][4c5a86a2][ExtensionHostConnection] New connection established.
+[15:02:17] [127.0.0.1][4c5a86a2][ExtensionHostConnection] <15384> Launched Extension Host Process.
+[15:02:24] [127.0.0.1][e49fae0a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:02:24] [127.0.0.1][4c5a86a2][ExtensionHostConnection] <15384> Extension Host Process exited with code: 0, signal: null.
+[15:02:30] [127.0.0.1][77ee3ff2][ManagementConnection] New connection established.
+[15:02:30] [127.0.0.1][8a75cf6f][ExtensionHostConnection] New connection established.
+[15:02:30] [127.0.0.1][8a75cf6f][ExtensionHostConnection] <15521> Launched Extension Host Process.

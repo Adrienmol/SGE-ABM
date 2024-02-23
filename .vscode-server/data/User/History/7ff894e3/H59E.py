@@ -24,7 +24,7 @@ Tarea04, que consta de guardar ciclos formativos, alumnos, profesores y alumnos
 
     # Security y vistas:
     'data': [
-        'security/groups.xml',
+        'security/groups.xml'
         'security/ir.model.access.csv',    
         'views/vistaModulos.xml',
         'views/vistaAlumnos.xml',
